@@ -102,18 +102,23 @@ ________________________________________
 Dashboard Screenshots
 
 Student Performance Overview:
+
 <img width="662" height="372" alt="image" src="https://github.com/user-attachments/assets/958a3e83-babf-4e8c-969d-cf545844800a" />
 
 School Infrastructure Analysis:
+
 <img width="662" height="373" alt="School Infrastructure Analysis" src="https://github.com/user-attachments/assets/beca2a32-67d1-4411-981d-c52ad79e7133" />
 
 Attendance Analysis:
+
 <img width="659" height="373" alt="Attendance Analysis" src="https://github.com/user-attachments/assets/0647cad2-71ef-448e-b8f4-35fcfcd56059" />
 
 Socio-Economic Analysis:
+
 <img width="661" height="371" alt="Socio-Economic Analysis" src="https://github.com/user-attachments/assets/532e8003-2b00-4b70-9239-7a1f73b59019" />
 
 Teacher Impact Analysis:
+
 <img width="663" height="371" alt="Teacher Impact Analysis" src="https://github.com/user-attachments/assets/86caf3d2-77d8-4bc4-a8fa-3192e378dc2b" />
 
 ------------------------------------------
